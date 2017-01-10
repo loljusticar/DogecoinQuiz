@@ -8,6 +8,11 @@ body {
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
+.accountbutton {
+  position: absolute;
+  left: 1vw;
+}
+
 .header {
   background-color:#CBC289;
 }
